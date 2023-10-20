@@ -18,7 +18,7 @@ nano 	:- used to edit file
 
 
 
-            **Help commands in Linux**
+            ##Help commands in Linux
 
 apropos	:- used to search for command
 ls --help:- What is used for "ls" command
@@ -27,7 +27,7 @@ man cp	:- To show all cp commands and manual
 
 
 
-            **Pipe & Grep Commands**
+            ##Pipe & Grep Commands
 
 pipe(|)	:- pipe is used to give two or more commands at same time
 
@@ -49,7 +49,7 @@ used to copy text to file and show word count.
 
 
 
-             **To Create Profiles**
+             ##To Create Profiles
 
 aws configure --profile // to create profile
 aws configure list-profiles // to list the profiles
@@ -58,7 +58,7 @@ aws sts get-caller-identity // to know the current profile
 
 
 
-              **Login to VM Without Key-pair**
+              ##Login to VM Without Key-pair
 
 cd /etc/ssh/	:- To change folders in vm
 ls -l		:- To show files and folders in vm
