@@ -117,16 +117,3 @@ id <username>	:- To check if a user is present in your system.
 cat /etc/passwd :- To list all the users. 
 sudo chown -R devops dir5/ :- To change owner for all inside dir5
 
-
-  
-
-
-
-
-
-
-
-
-
-
-
