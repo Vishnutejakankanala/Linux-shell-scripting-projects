@@ -3,6 +3,7 @@
 pwd	:- print working directory (To know where am i)
 cd	:- Change directory (To change folder)
 cd ..	:- to come back to old folder
+cd .. :- To come back to two folders
 cd /home/user/Dowmloads	:- used to where ever you want (path)
 cd ~	:- used to get back to home
 cd - 	:- To go to your previous location
@@ -108,7 +109,7 @@ Note that “r” is for read, “w” is for write, and “x” is for execute.
 4 = Read    "R"
 
 -rwxr-xr-x :- 755
-- rwx	rw-	r-x	r-x	-wr	-w-	--r
+- rwx	rw-	r-x	r--	-wr	-w-	--r
    7	 6 	 5       4	 3	 2	 1
 ```
 
