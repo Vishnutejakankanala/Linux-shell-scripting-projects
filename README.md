@@ -3,7 +3,7 @@
 pwd	:- print working directory (To know where am i)
 cd	:- Change directory (To change folder)
 cd ..	:- to come back to old folder
-cd .. :- To come back to two folders
+cd ../.. :- To come back to two folders
 cd /home/user/Dowmloads	:- used to where ever you want (path)
 cd ~	:- used to get back to home
 cd - 	:- To go to your previous location
