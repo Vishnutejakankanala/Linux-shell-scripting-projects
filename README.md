@@ -20,6 +20,10 @@ cp	:- used to copy file
 cp -r	:- to copy dir recursively 
 cat	:- Concatenate (To dispay what inside the file)
 nano 	:- used to edit file
+vi/vim :- used to edit file
+./    :- used to execute any file
+sh/bash :- used to execute shell file
+history :- used to look commends what we use till now
 ```
 
 # Install packages in Linux:
