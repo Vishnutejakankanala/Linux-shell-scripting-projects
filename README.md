@@ -113,7 +113,7 @@ Note that “r” is for read, “w” is for write, and “x” is for execute.
 4 = Read    "R"
 
 -rwxr-xr-x :- 755
-- rwx	rw-	r-x	r--	-wr	-w-	--r
+- rwx	rw-	r-x	r--	-wx	-w-	--x
    7	 6 	 5       4	 3	 2	 1
 ```
 
