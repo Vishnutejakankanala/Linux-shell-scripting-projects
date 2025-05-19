@@ -1,6 +1,6 @@
 # Linux Basic Commands
 ```
-pwd	:- print working directory (To know where am i)
+pwd	:- present working directory (To know where am i)
 cd	:- Change directory (To change folder)
 cd ..	:- to come back to old folder
 cd ../.. :- To come back to two folders
